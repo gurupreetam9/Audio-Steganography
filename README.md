@@ -4,7 +4,7 @@ APSSDC Project for Cyber Security with Kali Linux on Audio Steganography.
 #README
 
 1)Your audio file should be in '.wav' format. If it is in '.mp3' format you can convert it to '.wav' in 
---> https://www.freeconvert.com/mp3-to-wav .
+       --> https://www.freeconvert.com/mp3-to-wav .
 
 2)After Converting to '.wav' you need to check Channels, Sample Width(bytes), Sample Rate(Hz). 
 
